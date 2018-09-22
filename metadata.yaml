@@ -1,10 +1,13 @@
 _repo: The-Queen-of-Spades-and-other-stories_55024
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Edwards, Mrs Sutherland
     gutenberg_agent_id: '48153'
     url: http://www.gutenberg.org/2009/agents/48153
+covers:
+- cover_type: archival
+  image_path: 55024-h/images/cover.png
 creator:
   author:
     agent_name: Pushkin, Aleksandr Sergeevich
@@ -21,6 +24,8 @@ creator:
     - http://www.museum.ru/Pushkin/
     - http://en.wikipedia.org/wiki/Aleksandr_Pushkin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55024#The-Queen-of-Spades-and-other-stories
 gutenberg_issued: '2017-07-01'
 gutenberg_type: Text
 identifiers:
