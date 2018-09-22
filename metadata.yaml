@@ -1,0 +1,35 @@
+_repo: The-Queen-of-Spades-and-other-stories_55024
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Edwards, Mrs Sutherland
+    gutenberg_agent_id: '48153'
+    url: http://www.gutenberg.org/2009/agents/48153
+creator:
+  author:
+    agent_name: Pushkin, Aleksandr Sergeevich
+    aliases:
+    - Poushkin, Alexander
+    - Pushkin, A. S. (Aleksandr Sergeevich)
+    - Pushkin, Alexander
+    - Пушкин, Александр Сергеевич
+    birthdate: 1799
+    deathdate: 1837
+    gutenberg_agent_id: '1457'
+    url: http://www.gutenberg.org/2009/agents/1457
+    wikipedia:
+    - http://www.museum.ru/Pushkin/
+    - http://en.wikipedia.org/wiki/Aleksandr_Pushkin
+description: ''
+gutenberg_issued: '2017-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55024'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Queen of Spades and other stories
+url: http://www.gutenberg.org/ebooks/55024
